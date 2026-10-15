@@ -1,6 +1,6 @@
-# JS & TS Basics - Homework
+# Practical JavaScript Basics - Homework
 
-Practice tasks and homework for the course JS & TS Basics. Every task checks
+Practice tasks and homework for the course Practical JavaScript Basics. Every task checks
 your code and prints `OK` or `FAIL` for each check, and a final line such as
 `5 of 7 checks passed`.
 
